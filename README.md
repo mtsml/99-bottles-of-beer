@@ -1,1 +1,5 @@
-# 99-bottles-of-beer
+# Usage
+```
+python main.py
+```
+Nice Beer!
