@@ -1,5 +1,5 @@
 # Usage
 ```
-python main.py
+python beer.py
 ```
 Nice Beer!
